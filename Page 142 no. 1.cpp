@@ -5,7 +5,7 @@ int main() {
 	
  double capacity, miles, average ;
 
- cout << "Enter the number of size of the tank (gallons): " ;
+ cout << "Enter the number of size of the tank: " ;
  cin >> capacity;
  
  
